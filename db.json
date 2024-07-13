@@ -20,6 +20,62 @@
       "title": "Beloved",
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWNr8JJo6yKLjSlxsOMZkHICpInZmOWLSch2raLfLsHpEZXbQ-",
       "body": "A 1987 novel by American novelist Toni Morrison. Set in the period after the American Civil War, the novel tells the story of a dysfunctional family of formerly enslaved people whose Cincinnati home is haunted by a malevolent spirit. The narrative of Beloved derives from the life of Margaret Garner, a slave in the slave state of Kentucky who escaped and fled to the free state of Ohio in 1856."
+    },
+    {
+      "userId": "1",
+      "id": 4,
+      "title": "The Bee Sting",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjwBQa_yOo6te3RxMviIecXszkQ1ST1mf6RgIOkSLvJaw2lsOv",
+      "body": "A 2023 novel by Irish writer Paul Murray, published by Macmillan. The book depicts the dysfunctional, hapless lives of the Barnes family of Ireland, with portions of the book dedicated to the lives of each of the four family members. It was shortlisted for the 2023 Booker Prize and won both the An Post Irish Book of the Year award and the Fiction category and overall winner, the Gold Nero, in the inaugural Nero book awards."
+    },
+    {
+      "userId": "1",
+      "id": 5,
+      "title": "The Night Circus",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHH-fZcptMVfl-2RHoenxN95gXkYG3qk6xWhDjBZw7DuCHqdLD",
+      "body": "A phantasmagorical fairy tale set near an ahistorical Victorian London in a wandering, magical circus that is open only from sunset to sunrise. Le Cirque des Rêves (The Circus of Dreams) features exhibitions such as illusionists, fortune-tellers, and attractions that defy the laws of physics and reality. The circus has no set schedule, appearing and disappearing in random cities and towns without warning. The circus is powered by real magic, with performers frequently pulling off feats that seem impossible to spectators."
+    },
+    {
+      "userId": "1",
+      "id": 6,
+      "title": "The Diary of a Young Girl",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdLgbw-9HfG-_6Ph8ma-DR_-zS1XKdOBsgNe9vFnbR-VwFTIdr",
+      "body": "The Diary of Anne Frank, is a book of the writings from the Dutch-language diary kept by Anne Frank while she was in hiding for two years with her family during the Nazi occupation of the Netherlands. The family was apprehended in 1944, and Anne Frank died of typhus in the Bergen-Belsen concentration camp in 1945. Anne's diaries were retrieved by Miep Gies and Bep Voskuijl. Miep gave them to Anne's father, Otto Frank, the family's only survivor, just after the Second World War was over."
+    },
+    {
+      "userId": "1",
+      "id": 7,
+      "title": "The Handmaid's Tale",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzkbQRlCA3xjQSQb7lTkHx331L7Hb8L2SEVdr-GvjhhzARYGkO",
+      "body": "A futuristic dystopian novel[6] by Canadian author Margaret Atwood published in 1985.[7] It is set in a near-future New England in a patriarchal, totalitarian theonomic state known as the Republic of Gilead, which has overthrown the United States government.[8] Offred is the central character and narrator and one of the Handmaids: women who are forcibly assigned to produce children for the Commanders, who are the ruling class in Gilead."
+    },
+    {
+      "userId": "1",
+      "id": 8,
+      "title": "Jane Eyre",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWRNjCgpneMpc-nqkQHPvOEElMLqiCf-FeT35BewhQM4o2j6NF",
+      "body": "A novel by the English writer Charlotte Brontë. It was published under her pen name Currer Bell on 19 October 1847 by Smith, Elder & Co. of London. The first American edition was published the following year by Harper & Brothers of New York.[2] Jane Eyre is a bildungsroman that follows the experiences of its eponymous heroine, including her growth to adulthood and her love for Mr Rochester, the brooding master of Thornfield Hall."
+    },
+    {
+      "userId": "1",
+      "id": 9,
+      "title": "The Kite Runner",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/62/Kite_runner.jpg",
+      "body": "The first novel by Afghan-American author Khaled Hosseini.[1] Published in 2003 by Riverhead Books, it tells the story of Amir, a young boy from the Wazir Akbar Khan district of Kabul. The story is set against a backdrop of tumultuous events, from the fall of Afghanistan's monarchy through the Soviet invasion, the exodus of refugees to Pakistan and the United States, and the rise of the Taliban regime."
+    },
+    {
+      "userId": "1",
+      "id": 10,
+      "title": "To Kill a Mockingbird",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR819TtvIV0JJ5_Wzzfcnk3y2eXfPpamZmdbrg5ofv0Ydafpw_f",
+      "body": "A novel by the American author Harper Lee. It was published in July 1960 and became instantly successful. In the United States, it is widely read in high schools and middle schools. To Kill a Mockingbird has become a classic of modern American literature; a year after its release, it won the Pulitzer Prize. The plot and characters are loosely based on Lee's observations of her family, her neighbors and an event that occurred near her hometown of Monroeville, Alabama, in 1936, when she was ten."
+    },
+    {
+      "userId": "1",
+      "id": 11,
+      "title": "The Name of the Wind",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrIY5P5N3wTEYm2ZNfD0Ss9euKyePvh646PBRF8FEp7WZzHySI",
+      "body": "The Kingkiller Chronicle takes place in the fictional world of Temerant, a large continent of which the known part, called the Four Corners of Civilization, is divided into several distinct nations and cultures. Much of the world follows a faith vaguely similar to medieval Christianity. Coexisting alongside the mortal world is the realm of the Fae, a parallel universe inhabited by supernatural creatures which can move between the two realms only when the moon is full. Magic exists in Temerant, too, but obeys a well-defined set of rules and principles that can only be exploited by those who have trained in its professional and scientific use."
     }
   ]
 }
